@@ -1,11 +1,11 @@
 import React from 'react'
 
-const AiPicker = () => {
+const BackDrop = () => {
   return (
     <div>
-      API Picker
+      BackDrop
     </div>
   )
 }
 
-export default AiPicker
+export default BackDrop
